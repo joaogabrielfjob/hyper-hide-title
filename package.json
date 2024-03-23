@@ -1,9 +1,16 @@
 {
-  "name": "hyper-hide-title",
+  "name": "@joaogabrielfjob/hyper-hide-title",
   "description": "Hide Hyper Terminal title",
   "homepage": "https://github.com/joaogabrielfjob/hyper-hide-title",
   "version": "1.0.0",
   "main": "index.js",
   "author": "João Job",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaogabrielfjob/hyper-hide-title.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaogabrielfjob/hyper-hide-title/issues"
+  }
 }
