@@ -12,3 +12,10 @@ If you're like me and only use one tab, the window title doesn't make much sense
 # Preview
 
 ![](terminal.png)
+
+# Install
+
+
+```
+$ hyper i @joaogabrielfjob/hyper-hide-title
+```
